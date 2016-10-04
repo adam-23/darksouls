@@ -1,0 +1,62 @@
+Story
+---------------
+Name: Solus
+Post Ludleth era
+
+Common sellsword
+sacrificed by Oceiros to continue the flame for a few weeks while Ocelotte was maturing
+trained in Undead Settlement
+Refugee from Wolnir's Conquest as a child
+
+found a talisman
+found a cleric, taught healing
+
+received vision about mission upon reaching the Road
+-must reform the three religions
+  -Lothric Angel Court
+  -Cathedral of Irithyll, Aldrich, Anor Londo (Deep)
+  -Must control the Profaned Flame
+  -Must depose the religious pillars
+    
+    Lothric Faith
+        Teaches untruths and has been perverted by the patriarch and crown princes. 
+        Heretics are labeled as such and must be sacrificed to the light. 
+      -Rosaria (blessed sacrifice)
+      -Lorian (blessed sacrifice)
+      -Lothric(blessed sacrifice)
+      -Oceiros (blessed sacrifice)
+      -Emma (murdered sacrifice)
+      -Blessed Knights (blessed sacrifice)
+    
+    Deep Faith
+        Contains abominations and blatant heresy and murder. 
+        Too embroiled in the magic and sorcery and rumored to connect with the Profaned Flame. 
+        Destroy on sight.
+      -Vordt (blessed sacrifice)
+      -Dancer (blessed sacrifice)
+      -Pope (blessed sacrifice)
+      -Pontiff (blessed sacrifice)
+      -Aldrich (blessed sacrifice)
+    
+    Godline
+        This aristocratic line is reclusive and hypocritical, and too weak to be relied on. 
+        The high faith is descended from this faith, but remains pure where the aristocracy has not.
+        Destroy on sight.
+      -Sen the Forgotten King (blessed sacrifice)
+      -Gwyndolin (blessed sacrifice)
+      -Yorshka (blessed sacrifice)
+      
+    Black Church of Londor
+        This church chooses destruction, suicide, desolation, and despair, and must be destroyed
+      -Yoel (blessed sacrifice)
+      -Yuria (won't show)
+      -Yuria's Pilgrim Assassin (won't show)
+      
+    Church of the Profaned Flame
+        This church teaches sacrifice and aristocracy and must be destroyed
+      -Yhorm (blessed sacrifice)
+      -Siegward (left alive due to atonement)
+      -Jailers (blessed sacrifice)
+     
+    
+
