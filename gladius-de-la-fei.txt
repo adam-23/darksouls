@@ -3,15 +3,35 @@ Story
 Name: Solus
 Post Ludleth era
 
+La Fei Altusus
+-sorcery and hexes are not permitted
+-heretics must be killed
+all believers must be trained in steel
+-sword logic
+-family is important, chosen family is more important
+-succession by the sword
+-take possessions by force
+    -right to challenge
+    -if defeated is killed permanently, their stuff can be claimed
+    -if defeated is resurrected, they retain their posessions
+-reincarnation is possible
+  -the strong or divinely chosen are reincarnated
+  -the weak are reincarnated into a new form
+  -strength can create the soul
+  -greed or sin can weaken the soul
+  -the soul can create matter or worlds
+  
+
+
+
 Common sellsword
-sacrificed by Oceiros to continue the flame for a few weeks while Ocelotte was maturing
-trained in Undead Settlement
+Sacrificed by Oceiros to continue the flame for a few weeks while Ocelotte was maturing
+Trained in Undead Settlement
 Refugee from Wolnir's Conquest as a child
 
-found a talisman
-found a cleric, taught healing
-
-received vision about mission upon reaching the Road
+Found a talisman
+Found a cleric, taught healing
+Received vision about mission upon reaching the Road
 -must reform the three religions
   -Lothric Angel Court
   -Cathedral of Irithyll, Aldrich, Anor Londo (Deep)
